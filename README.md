@@ -1,2 +1,2 @@
-# yii-starter-kit-
+# yii-starter-kit
 Yii-starter-kit 
